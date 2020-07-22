@@ -1,4 +1,4 @@
-# NHL-DATA-Analysys-using-MySQL
+# NHL-DATA-Analysys-using-SQL
 
 Create a comprehensive database to store volumes of national hockey league data to analyze them and answer key questions. These questions will help to understand trends and patterns which can be used to increase success rates and reduce failure rates.  
  
